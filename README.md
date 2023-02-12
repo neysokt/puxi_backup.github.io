@@ -2,7 +2,7 @@
 
 ## 长篇
 
-[走这里](neysokt.github.io/changpian.md)
+[走这里](/neysokt.github.io/changpian.md)
 
 ## 短篇
 
